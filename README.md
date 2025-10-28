@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielSohrabi!
-- 👀 I’m interested in web development!
-- 🌱 I’m currently learning React.js!
+- 👀 I am currently working at DND as a Data Science Developer CO-OP Student!
+- 🌱 I’m currently learning Vector Databases!
 - 📫 Reach out to me on LinkedIn!
 
 <!---
